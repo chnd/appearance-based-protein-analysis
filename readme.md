@@ -1,8 +1,10 @@
-#Readme
+# Readme
 
-This repository contains supported materials (being updated) used in the following paper:
+This repository contains supported materials used in the following paper:
 
 https://www.computer.org/csdl/trans/tb/2018/01/07555308-abs.html
+
+(being updated)
 
 Citation:
 
