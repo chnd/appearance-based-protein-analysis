@@ -1,5 +1,5 @@
 #!/usr/bin/python
-# This script is to download the pdf files based on the list of the scop id (sid) of the <= 40% astral dataset
+# This script is to download the pdf files based on the list of the scop id (sid) of the <= 20% astral dataset
 import os, sys, getopt, re, urllib2;
 
 def main(argv):
