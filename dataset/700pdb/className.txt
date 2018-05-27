@@ -1,0 +1,10 @@
+class 1: alpha
+class 2: beta
+class 3: alpha/beta
+class 4: alpha+beta
+class 5: multidomain protein
+class 6: membrane, peptide, surface
+class 7: small protein
+
+URL:
+https://www.computer.org/csdl/trans/tb/2018/01/07555308-abs.html
